@@ -4,7 +4,7 @@
      xmlns:podcast="https://podcastindex.org/namespace/1.0"
      version="2.0">
   <channel>
-    <title>ONE MINDSET2</title>
+    <title>ONE MINDSET</title>
     <link>https://haruna77.github.io/one-podcast/</link>
     <language>ja-jp</language>
     <itunes:author>かず</itunes:author>
@@ -21,8 +21,8 @@
       <itunes:author>かず</itunes:author>
       <itunes:summary>（ここにエピソード01「今までの常識を捨てる」の具体的な説明文を記入）</itunes:summary>
       <description>（ここにエピソード01「今までの常識を捨てる」の具体的な説明文を記入）</description>
-      <enclosure url="https://www.dropbox.com/scl/fi/9f2tovj0ifla0ppopw2ym/01.MP3?dl=1" length="1952045" type="audio/mpeg"/>
-      <guid>https://www.dropbox.com/scl/fi/9f2tovj0ifla0ppopw2ym/01.MP3?dl=1</guid>
+      <enclosure url="https://haruna77.github.io/webpodcast/mp3/01.MP3" length="7506179" type="audio/mpeg"/>
+      <guid>https://haruna77.github.io/webpodcast/mp3/01.MP3</guid>
       <pubDate>Fri, 18 Jul 2025 01:00:00 GMT</pubDate>
       <itunes:duration>469</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -33,8 +33,8 @@
       <itunes:author>かず</itunes:author>
       <itunes:summary>（ここにエピソード02「アウトプットから始める」の具体的な説明文を記入）</itunes:summary>
       <description>（ここにエピソード02「アウトプットから始める」の具体的な説明文を記入）</description>
-      <enclosure url="https://www.dropbox.com/scl/fi/m4em439k90cis2iimg6hl/02.MP3?dl=1" length="2186977" type="audio/mpeg"/>
-      <guid>https://www.dropbox.com/scl/fi/m4em439k90cis2iimg6hl/02.MP3?dl=1</guid>
+      <enclosure url="https://haruna77.github.io/webpodcast/mp3/02.MP3" length="6333803" type="audio/mpeg"/>
+      <guid>https://haruna77.github.io/webpodcast/mp3/02.MP3</guid>
       <pubDate>Fri, 18 Jul 2025 02:00:00 GMT</pubDate>
       <itunes:duration>526</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
