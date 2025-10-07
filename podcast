@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
   <channel>
-    <title>ONE MINDSET（web用）</title>
+    <title>ONE MINDSET</title>
     <link>https://haruna77.github.io/one-podcast/</link>
     <language>ja-jp</language>
     <itunes:author>かず</itunes:author>
-    <itunes:summary>ONE Mindset音声プログラム</itunes:summary>
-    <description> </description>
+    <itunes:summary>（ここに番組の詳しい説明文を記入）ONE Mindset音声プログラム</itunes:summary>
+    <description>（ここに番組の詳しい説明文を記入）ONE Mindset音声プログラム</description>
+    <atom:link rel="self" type="application/rss+xml" href="https://haruna77.github.io/one-podcast/web.podcast.xml"/>
     <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mPk4uE7XhW1Wz4EsAWVYPH2LtWpT6h0Gfmkl9sqt.jpg" />
     <itunes:category text="教育">
       <itunes:category text="コース"/>
@@ -15,8 +18,8 @@
     <item>
       <title>00.ONE Mindset概要</title>
       <itunes:author>かず</itunes:author>
-      <itunes:summary> </itunes:summary>
-      <description> </description>
+      <itunes:summary>（ここにエピソードの詳しい説明文を記入）</itunes:summary>
+      <description>（ここにエピソードの詳しい説明文を記入）</description>
       <enclosure url="https://utage-system.com/audio/I6nVEMP9OBMT" length="4071421" type="audio/mpeg"/>
       <guid>https://utage-system.com/audio/I6nVEMP9OBMT</guid>
       <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
@@ -27,8 +30,8 @@
     <item>
       <title>01.今までの常識を捨てる</title>
       <itunes:author>かず</itunes:author>
-      <itunes:summary> </itunes:summary>
-      <description> </description>
+      <itunes:summary>（ここにエピソードの詳しい説明文を記入）</itunes:summary>
+      <description>（ここにエピソードの詳しい説明文を記入）</description>
       <enclosure url="https://utage-system.com/audio/7HAWcrPbVv9q" length="1952045" type="audio/mpeg"/>
       <guid>https://utage-system.com/audio/7HAWcrPbVv9q</guid>
       <pubDate>Fri, 18 Jul 2025 01:00:00 GMT</pubDate>
@@ -39,8 +42,8 @@
     <item>
       <title>02.アウトプットから始める</title>
       <itunes:author>かず</itunes:author>
-      <itunes:summary> </itunes:summary>
-      <description> </description>
+      <itunes:summary>（ここにエピソードの詳しい説明文を記入）</itunes:summary>
+      <description>（ここにエピソードの詳しい説明文を記入）</description>
       <enclosure url="https://utage-system.com/audio/bteMZB2BlAb6" length="2186977" type="audio/mpeg"/>
       <guid>https://utage-system.com/audio/bteMZB2BlAb6</guid>
       <pubDate>Fri, 18 Jul 2025 02:00:00 GMT</pubDate>
@@ -51,8 +54,8 @@
     <item>
       <title>03.否定から入ってくる人は断捨離する</title>
       <itunes:author>かず</itunes:author>
-      <itunes:summary> </itunes:summary>
-      <description> </description>
+      <itunes:summary>（ここにエピソードの詳しい説明文を記入）</itunes:summary>
+      <description>（ここにエピソードの詳しい説明文を記入）</description>
       <enclosure url="https://utage-system.com/audio/jJNfGdgtfaty" length="1658930" type="audio/mpeg"/>
       <guid>https://utage-system.com/audio/jJNfGdgtfaty</guid>
       <pubDate>Fri, 18 Jul 2025 03:00:00 GMT</pubDate>
@@ -63,8 +66,8 @@
     <item>
       <title>04.成功ではなく、成長にフォーカスしろ</title>
       <itunes:author>かず</itunes:author>
-      <itunes:summary> </itunes:summary>
-      <description> </description>
+      <itunes:summary>（ここにエピソードの詳しい説明文を記入）</itunes:summary>
+      <description>（ここにエピソードの詳しい説明文を記入）</description>
       <enclosure url="https://utage-system.com/audio/g3DZjSeEzlAG" length="1186486" type="audio/mpeg"/>
       <guid>https://utage-system.com/audio/g3DZjSeEzlAG</guid>
       <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
@@ -75,8 +78,8 @@
     <item>
       <title>05.うまくいかないのは全部自分のせいである</title>
       <itunes:author>かず</itunes:author>
-      <itunes:summary> </itunes:summary>
-      <description> </description>
+      <itunes:summary>（ここにエピソードの詳しい説明文を記入）</itunes:summary>
+      <description>（ここにエピソードの詳しい説明文を記入）</description>
       <enclosure url="https://utage-system.com/audio/e5lA3IlMqNUo" length="2912486" type="audio/mpeg"/>
       <guid>https://utage-system.com/audio/e5lA3IlMqNUo</guid>
       <pubDate>Fri, 18 Jul 2025 05:00:00 GMT</pubDate>
@@ -84,6 +87,5 @@
       <itunes:explicit>no</itunes:explicit>
           <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/LWogPdtA0gH0cj5lA5JquGyEBGkw7bJWfznmGuuq.jpg" />
     </item>
-
-  </channel>
+    </channel>
 </rss>
